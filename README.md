@@ -1,4 +1,4 @@
-<img width="3060" height="4080" alt="20260715_094451" src="https://github.com/user-attachments/assets/3f965c00-0eaa-4716-aad9-fa3cbb7571a3" /># esp32-battle-controller-MOUSEXV1-
+esp32-battle-controller-MOUSEXV1-
 a esp32 wroom controlled, controller two joysticks and one button, this is for my battle bot, named MOUSEX. you can use esp32 now for it wand the design plain, but you are able to connect the pieces super easy. this is what it looks like <img width="4320" height="3240" alt="DSCN2482" src="https://github.com/user-attachments/assets/a83b2113-bfeb-4010-806e-b9facb3a39ae" />All wire is on the bottom layers. 
 
 MORE IN DETAIL: 
