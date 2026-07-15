@@ -5,6 +5,7 @@ MORE IN DETAIL:
 secs: esp32 wroom, Shillehtek KY-023 Dual Axis PS2 Analog Joystick, tatictal button assortment, im using solid core wire. SIDE NOTE(I sodered the joystic header pins on the opposite side so it can plug in the controller)
 
 _________________________SETUP_____________________
+                        
                         -esp32 wroom-
 you can use the arduino ide or vs code with platform IO to deploy the code on the esp32. 
 I would do this first so your able tyo test the wiring in the next steps
