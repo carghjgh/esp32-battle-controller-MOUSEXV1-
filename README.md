@@ -22,7 +22,8 @@ NOTE: After laying down the wire I recomend you test to see that all wire is tou
                         
                         -top layers-
 print out all of the rest of the files in 3d models folder(3 CLIPS.STL / TOP left.stl / Top Right.stl)
-lay the top right model on the bottom right model and use the clips.stl and press them in the holes so it looks like this: <img width="3060" height="4080" alt="20260715_094451" src="https://github.com/user-attachments/assets/c7c885fb-68a4-45fe-bb4b-ff4acddf5411" />
+lay the top right model on the bottom right model and use the clips.stl and press them in the holes so it looks like this:<img width="3060" height="4080" alt="20260716_221809" src="https://github.com/user-attachments/assets/9cab13f9-4c49-4ed2-b4b7-ce43ed0cdc19" />
+ 
 then do the exact same for the top left and bottom left sides sp that it looks like this: <img width="3060" height="4080" alt="20260715_160301" src="https://github.com/user-attachments/assets/40966a51-98fa-41a4-9285-6c8df187587c" />
                         
                         -components-
