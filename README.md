@@ -20,7 +20,7 @@ https://www.digikey.com/en/products/detail/sparkfun-electronics/10302/5775291?gc
 
 PLA- EST 0.46$ USD
 
-_________________________SETUP_____________________
+_________________________SETUP____________________________
                         
                         -esp32 wroom-
 you can use the arduino ide or vs code with platform IO to deploy the code on the esp32. 
