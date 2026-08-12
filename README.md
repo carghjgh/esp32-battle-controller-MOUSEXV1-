@@ -2,6 +2,8 @@ esp32-battle-controller-MOUSEXV1-
 a esp32 wroom controlled, controller two joysticks and one button, this is for my battle bot, named MOUSEX. you can use esp32 now for it wand the design plain, but you are able to connect the pieces super easy. this is what it looks like <img width="4320" height="3240" alt="DSCN2482" src="https://github.com/user-attachments/assets/a83b2113-bfeb-4010-806e-b9facb3a39ae" />All wire is on the bottom layers. 
 
 MORE IN DETAIL: 
+HERE is my ONSHAPE- https://cad.onshape.com/documents?resourceType=resourceuserowner&nodeId=69715e54a96c5fdb1bae07b3
+
 secs: esp32 wroom, Shillehtek KY-023 Dual Axis PS2 Analog Joystick, tatictal button assortment, im using solid core wire. SIDE NOTE(I sodered the joystic header pins on the opposite side so it can plug in the controller)
 
 BILL OF MATERIAL
