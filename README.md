@@ -4,6 +4,18 @@ a esp32 wroom controlled, controller two joysticks and one button, this is for m
 MORE IN DETAIL: 
 secs: esp32 wroom, Shillehtek KY-023 Dual Axis PS2 Analog Joystick, tatictal button assortment, im using solid core wire. SIDE NOTE(I sodered the joystic header pins on the opposite side so it can plug in the controller)
 
+BILL OF MATERIAL
+ESP32-DEVKITC-32E- 10.00$ USD
+link- https://www.digikey.com/en/products/detail/espressif-systems/ESP32-DEVKITC-32E/12091810?gclsrc=aw.ds&gad_source=1&gad_campaignid=20243136172&gbraid=0AAAAADrbLlhR73418N_gzRdZCZs-XyIRg&gclid=Cj0KCQjwkOvTBhDgARIsAKUNyRuSjNb7ucMOJeCF_7BoaGn61G6P1fu6wot5MGSa1pYoZsf-LH9Pz50aAsKYEALw_wcB
+
+Analog Joystick Module- 9.98$ USD
+link- https://shillehtek.com/products/ky-023-dual-axis-joystick-module-ps2-analog-sensor-for-arduino?srsltid=AfmBOorxeQb28QO7QQDDs3mJW-q6P4l3ASc7Mg2foPCR8C5DgSNukamK
+
+TACTILE BUTTON ASSORTMENT- 5.95$ USD
+https://www.digikey.com/en/products/detail/sparkfun-electronics/10302/5775291?gclsrc=aw.ds&gad_source=1&gad_campaignid=20243136172&gbraid=0AAAAADrbLlhR73418N_gzRdZCZs-XyIRg&gclid=Cj0KCQjwkOvTBhDgARIsAKUNyRtL3ATXHGftHPvLEcfU4GtElxy6cYAO-K8ZlFNUenG2yiI5EZZRyT0aApBOEALw_wcB
+
+PLA- EST 0.46$ USD
+
 _________________________SETUP_____________________
                         
                         -esp32 wroom-
