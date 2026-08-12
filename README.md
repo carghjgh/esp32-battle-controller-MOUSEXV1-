@@ -5,6 +5,7 @@ MORE IN DETAIL:
 secs: esp32 wroom, Shillehtek KY-023 Dual Axis PS2 Analog Joystick, tatictal button assortment, im using solid core wire. SIDE NOTE(I sodered the joystic header pins on the opposite side so it can plug in the controller)
 
 BILL OF MATERIAL
+
 ESP32-DEVKITC-32E- 10.00$ USD
 link- https://www.digikey.com/en/products/detail/espressif-systems/ESP32-DEVKITC-32E/12091810?gclsrc=aw.ds&gad_source=1&gad_campaignid=20243136172&gbraid=0AAAAADrbLlhR73418N_gzRdZCZs-XyIRg&gclid=Cj0KCQjwkOvTBhDgARIsAKUNyRuSjNb7ucMOJeCF_7BoaGn61G6P1fu6wot5MGSa1pYoZsf-LH9Pz50aAsKYEALw_wcB
 
